@@ -1,5 +1,6 @@
 /* styles.css */
 
-li {
-  color: rgb(215, 15, 15);
+.alert-text {
+  color: #c9149f;
 }
+
