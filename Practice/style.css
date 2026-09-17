@@ -4,6 +4,10 @@
   color: #f4bf38;
 }
 
-.alert-text {
+ .alert-text {
   color:blueviolet;
+}
+
+ #title {
+  color:red;
 }
