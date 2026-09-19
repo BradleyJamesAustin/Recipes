@@ -1,11 +1,8 @@
 /* styles.css */
 
-.apple {
+.apple,
+.alert-text {
   color: #f4bf38;
-}
-
- .alert-text {
-  color:blueviolet;
 }
 
  h1 {
