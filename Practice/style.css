@@ -1,11 +1,15 @@
 /* styles.css */
 
 .apple,
-.alert-text {
-  color: hsl(16, 82%, 56%);
-  background-color: aquamarine;
+.alert-text,
+h1,
+div,
+p,
+li {
+  color: hsl(0, 0%, 100%);
 }
 
- h1 {
-  color:red;
+
+body {
+  background-color: rgba(0, 0, 0, 0.793);
 }
