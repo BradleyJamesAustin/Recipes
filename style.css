@@ -1,0 +1,9 @@
+body {
+  background: linear-gradient(90deg, #eae3d9 0.000%, #ede3d9 16.667%, #e9dcd1 33.333%, #dfcfc4 50.000%, #d0bfb4 66.667%, #c0aea3 83.333%, #b1a095 100.000%);
+}
+
+h1,
+p,
+h4 {
+    color: grey;
+}
